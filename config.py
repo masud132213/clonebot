@@ -10,9 +10,9 @@ logging.getLogger("pyrogram").setLevel(logging.WARNING)
 
 class Config(object):
 
-    TG_BOT_TOKEN = ""
-    APP_ID = 
-    API_HASH = ""
+    TG_BOT_TOKEN = "5863446083:AAELdsq0fAbKdCKaMDIGQmfE98vJ0JvDSmQ"
+    APP_ID = 5587539
+    API_HASH = "8670b598fef377e6782429b1f664dce6"
     TG_USER_SESSION = ""
     DB_URI = ""
 
